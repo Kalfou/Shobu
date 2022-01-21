@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/gear.png</file>
+        <file>images/leave.png</file>
+        <file>images/save.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/reset.png</file>
+        <file>images/left.png</file>
+        <file>images/right.png</file>
+        <file>images/draw.png</file>
+        <file>images/black_draw.png</file>
+        <file>images/white_draw.png</file>
+    </qresource>
+</RCC>
