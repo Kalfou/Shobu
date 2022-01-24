@@ -7,6 +7,6 @@ The documentation is in Hungarian, but the code and the comments are in English
 
 ## Features
 
-- Single plaer mode with 3 difficulties
+- Single player mode with 3 difficulties
 - Local multiplayer
 - Online multiplayer (with ShobuServer)
